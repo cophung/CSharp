@@ -1,0 +1,3 @@
+﻿Multicasting of a Delegate
+- Delegate object có thể được compose (biên soạn) bằng cách sử dụng “+”. “+” sẽ gọi 2 delegate và compose nó. Chỉ những delegate có kiểu tương tự nhau mới được compose. “-” được sử dụng để remove 1 delegate khỏi delegate đã được compose
+- Sử dụng property này của delegate, bạn có thể tạo danh sách invocation (sự cầu khẩn) của method, và sẽ được gọi khi delegate được invoked (được viện dẫn). Đây được gọi là Multicasting delegate
