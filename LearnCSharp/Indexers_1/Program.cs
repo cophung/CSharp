@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//Cho phép 1 object lập index như array
+//This project is Overloaded Indexers
+
+
+using System;
 
 namespace Indexers_1
 {
